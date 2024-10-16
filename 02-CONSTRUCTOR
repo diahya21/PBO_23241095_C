@@ -10,8 +10,8 @@ Public class App {
     Public static void main(String[] args) throws Exception {
 
         Mahasiswa mhs_1 = new Mahasiswa();
-        Mhs_1.Nama = “Reymon”;
-        Mhs_1.NIM = “23241112Class Mahasiswa {
+        Mhs_1.Nama = “Diah”;
+        Mhs_1.NIM = “2341095Class Mahasiswa {
             String Nama;
             String NIM;
             String Prodi;
