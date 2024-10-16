@@ -15,8 +15,8 @@ public class App {
         Mahasiswa mhs_1 = new Mahasiswa();
 
         //Memberikan nilai pada objek
-        mhs_1.Nama = "Jeldah";
-        mhs_1.NIM = "23241079class Mahasiswa{
+        mhs_1.Nama = "Diah";
+        mhs_1.NIM = "23241095" class Mahasiswa{
     String Nama;
     String NIM;
     String Prodi;
@@ -36,8 +36,8 @@ public class App {
         mhs_1.Nama = "Angga";
         mhs_1.NIM = "23241084";
         mhs_1.Prodi = "Pendidikan Teknologi Informasi";
-        mhs_1.Umur = 18;
-        mhs_1.IPK = 3.0;
+        mhs_1.Umur = 19;
+        mhs_1.IPK = 3.5;
         
         //Mencetak objek
         System.out.println("Nama    : " + mhs_1.Nama);
